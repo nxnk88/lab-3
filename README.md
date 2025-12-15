@@ -33,10 +33,10 @@
 ## Исходный код программы
 
 - 🔹 **Необфусцированная версия:**  
-  [`source/plain.cpp`](source/plain.cpp)
+  [`source/main.cpp`](source/main.cpp)
 
 - 🔹 **Обфусцированная версия:**  
-  [`source/obfuscated.cpp`](source/obfuscated.cpp)
+  [`source/main_obf.cpp`](source/main_obf.cpp)
 
 ---
 
