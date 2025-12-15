@@ -73,7 +73,7 @@
 
 ### Импортируемые функции (Imports)
 
-![Imports comparison](screenshots/03-04_imports_plain.png)
+![Imports comparison](screenshots/imports_plain.png)
 
 **Анализ:**  
 В необфусцированной версии список импортов напрямую отражает логику программы.
